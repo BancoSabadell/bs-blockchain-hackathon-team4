@@ -1,4 +1,3 @@
-/*
 'use strict';
 
 const TestRPC = require('ethereumjs-testrpc');
@@ -50,4 +49,3 @@ describe('Invoice deployment', function () {
         });
     });
 });
-*/
